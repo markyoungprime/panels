@@ -1,5 +1,2 @@
 streamlit==1.33.0  # Use the latest version or match your local version
 matplotlib==3.8.3  # Match your local version
-git add app.py requirements.txt
-  git commit -m "Prepare for Streamlit deployment"
-  git push origin main
